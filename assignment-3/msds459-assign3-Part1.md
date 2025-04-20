@@ -16,10 +16,10 @@ The Wikidata model has a direct relationship with the Wikipedia project, which h
 
 ## Key Ideas
 
-**The Role of Knowledge Graphs in AI**: KGs are crucial in enhancing the capabilities of AI systems by providing structured, semantically rich data that improves context understanding and reasoning. [More on AI and KGs](#)
+**The Role of Knowledge Graphs in AI**: KGs are crucial in enhancing the capabilities of AI systems by providing structured, semantically rich data that improves context understanding and reasoning.
 
-**Integration and Interoperability**: Knowledge graphs allow for the integration of diverse data sources, making them highly valuable in domains such as healthcare and finance, where data silos are common. [Integration challenges in KGs](#)
+**Integration and Interoperability**: Knowledge graphs allow for the integration of diverse data sources, making them highly valuable in domains such as healthcare and finance, where data silos are common.
 
-**Advancements in Query Languages**: The development of advanced query languages specifically designed for KGs facilitates easier access to complex data relationships and supports better data management. [SPARQL and its significance](#)
+**Advancements in Query Languages**: The development of advanced query languages specifically designed for KGs facilitates easier access to complex data relationships and supports better data management.
 
-These readings provide foundational knowledge about KGs, their structure, and their importance in modern data systems and artificial intelligence. The book sets the stage for deeper discussions on techniques and applications that can leverage knowledge graphs in various domains.
+
