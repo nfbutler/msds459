@@ -1,4 +1,4 @@
-# Part 1 Chapter 12 of "Knowledge Graphs"
+# Part 1 Chapter 8 of "Knowledge Graphs"
 
 ## Summary of Chapter 8 Instance Matching, pages 175–220, Chapter 9 Statistical Relational Learning, pages 221–240.
 
