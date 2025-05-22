@@ -1,6 +1,6 @@
 # Part 2 Chapter 8 of "Knowledge Graphs"
 
-## Summary of Chapter 8 Instance Matching, pages 175–220, Chapter 9 Statistical Relational Learning, pages 221–240.
+## Summary of Chapter 8 and 9 Instance Matching, pages 175–220, Chapter 9 Statistical Relational Learning, pages 221–240.
 
 Chapter 8 of "Knowledge Graphs: Fundamentals, Techniques, and Applications" focuses on the problem of instance matching (IM) within knowledge graphs (KGs). Instance matching involves the semiautomatic clustering of instances in a KG to identify which instances refer to the same underlying entity, a challenging task due to ambiguities in data representation and the need for contextual understanding. The chapter begins with an example of citations in a bibliographic KG to illustrate the complexities of identifying unique entities, explaining how multiple syntactically distinct mentions may refer to the same underlying entity.
 
